@@ -7,11 +7,11 @@ It is built by using ASP.NET MVC for Backend, Entity Framework for database, and
 
 our Entity Relation schema was
 
-<iframe src="https://drive.google.com/file/d/1emoHLG8yUs96tEmA97izupAyzmabyWPP/preview" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1emoHLG8yUs96tEmA97izupAyzmabyWPP/preview" width="640" height="480" allow="autoplay"></iframe>
 
 **Demo for our website**
 
-<iframe src="https://drive.google.com/file/d/1gJlE3yskmN6LjUDZWJenRXtGzbzJRKBN/preview" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1gJlE3yskmN6LjUDZWJenRXtGzbzJRKBN/preview" width="640" height="480" allow="autoplay"></iframe>
 
 we deploy our application to **Microsoft Azure App Service** and our database to **Microsoft Azure SQL Database**.
 Finally, This project was technically sponsored by [DilenyTech LLC](https://www.dilenytech.com/) and funded by 
