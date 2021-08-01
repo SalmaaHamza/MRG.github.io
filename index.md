@@ -13,9 +13,9 @@ our Entity Relation schema was
 
 <iframe src="https://drive.google.com/file/d/1emoHLG8yUs96tEmA97izupAyzmabyWPP/preview" width="640" height="480" allow="autoplay"></iframe>
 
-we deploy our website to **Microsoft Azure App Service** and database to **Microsoft Azure SQL Database**.
-Finally This project was technically sponspred by [DilenyTech LLC](https://www.dilenytech.com/) and funded by 
+we deploy our application to **Microsoft Azure App Service** and our database to **Microsoft Azure SQL Database**.
+Finally, This project was technically sponsored by [DilenyTech LLC](https://www.dilenytech.com/) and funded by 
 [Academy of scientific Research & Technology](http://asrt.sci.eg/) (15,200 EGP) and [ITIDA](https://itida.gov.eg/English/Pages/default.aspx) (10,000 EGP)
 
-[`source code`]()
+[`source code`](https://github.com/SalmaaHamza/Mammography-Report-Generation-UI)
 
